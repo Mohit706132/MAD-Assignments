@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409707623556",
+    "project_id": "edai-sem1",
+    "storage_bucket": "edai-sem1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409707623556:android:1aadb0cc8316fd4e38fed1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX7m1wBkiuTvXPfdVj8jh-5U9OmOk6KjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

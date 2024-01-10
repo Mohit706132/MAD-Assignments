@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="hello_world">Hello World !!</string>
+    <string name="enter_to_change_above_text">Enter To Change Above Text</string>
+    <string name="set">SET</string>
+    <string name="set_2">SET</string>
+    <string name="enter_number_to_increase_font_size">Enter number to increase Font Size</string>
+    <string name="name">Name</string>
+</resources>

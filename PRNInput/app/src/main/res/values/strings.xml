@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PRN Input</string>
+    <string name="name">Name</string>
+    <string name="branch">Branch</string>
+    <string name="prn">PRN</string>
+    <string name="roll_no">Roll No.</string>
+    <string name="div">DIV</string>
+    <string name="division">Division</string>
+    <string name="year">Year</string>
+    <string name="Year">Year</string>
+    <string name="student_name">Student Name</string>
+    <string name="no">NO</string>
+    <string name="name_">Name</string>
+    <string name="your_details">Your Details</string>
+    <string name="branch_">Branch</string>
+    <string name="prn_">PRN</string>
+    <string name="roll">Roll No.</string>
+    <string name="year_">Year</string>
+    <string name="DIV">Division</string>
+    <string name="div_">DIV</string>
+    <string name="roll_no_">Roll No.</string>
+    <string name="prn__">PRN</string>
+    <string name="submit">Submit</string>
+    <string name="roll_no__">Roll No.</string>
+    <string name="no_">NO</string>
+    <string name="enter_details">Enter Details</string>
+</resources>
